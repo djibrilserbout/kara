@@ -1,1 +1,34 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    margin:0px 0px 0px 0px;
+    padding:0;
+    font-family: 'Alata', sans-serif;
+    scroll-behavior: smooth;
+    background:rgb(27, 27, 27);
+    
+}
+.connexion {
+    height:100vh;
+    background:center  no-repeat url("assets/road.jpg")  ;
+}
+.inscription {
+    height:100vh;
+    /* width:100%; */
+    background:center  no-repeat url("assets/wow.jpg")  ;
+}
+.strong {
+    font-weight:bold;
+}
+li {
+    list-style: none;
+}
+input {
+    font-family: 'Alata', sans-serif;
+
+}
+button {
+    font-family: 'Alata', sans-serif;
+}
+a {
+    text-decoration:none;
+}
