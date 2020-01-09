@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ##Presentaion
-<img src="/src/assets/screeshots/kara_example1.png" alt="first screenshot"/>
+<img src="/src/assets/screenshots/kara_example1.png" alt="first screenshot"/>
 
-<img src="/src/assets/screeshots/kara_example2.png" alt="first screenshot"/>
+<img src="/src/assets/screenshots/kara_example2.png" alt="first screenshot"/>
 
 kara/src/assets/screenshots/
 
