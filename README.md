@@ -7,7 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <img src="/src/assets/screenshots/kara_example2.png" alt="first screenshot"/>
 
-kara/src/assets/screenshots/
 
 
 
